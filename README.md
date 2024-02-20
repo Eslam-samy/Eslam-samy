@@ -29,7 +29,7 @@ Feel free to explore my repositories for more!
 ## 📫 Let's Connect
 
 - LinkedIn: https://www.linkedin.com/in/degel1/
-- Email: [Your Email](mailto:Esamy8088@gmail.com)
+- Email: [Eslam samy](mailto:Esamy8088@gmail.com)
 
 ## 🎉 Fun Facts
 
