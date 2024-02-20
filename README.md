@@ -28,9 +28,8 @@ Feel free to explore my repositories for more!
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](Your LinkedIn Profile Link)
-- Twitter: [@YourTwitterHandle](Your Twitter Handle)
-- Email: [Your Email](mailto:your.email@example.com)
+- LinkedIn: https://www.linkedin.com/in/degel1/
+- Email: [Your Email](mailto:Esamy8088@gmail.com)
 
 ## 🎉 Fun Facts
 
