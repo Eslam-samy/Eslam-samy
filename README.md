@@ -20,9 +20,20 @@ I'm an Android and Flutter Developer passionate about creating robust and user-f
 
 Here are some projects I'm proud of:
 
-1. [Delta Capital App](https://play.google.com/store/apps/details?id=com.corptia.marinaCapital): Brief description.
-2. [Project Name 2](Link to Project 2): Brief description.
-3. [Project Name 3](Link to Project 3): Brief description.
+1. [Delta Capital App](https://play.google.com/store/apps/details?id=com.corptia.marinaCapital) :Application for Delta Capital company to help their clients to manage their
+apartments at the compound,Developed it as android app using java as programming language.
+
+
+2. [Alheba Fruits](https://play.google.com/store/apps/details?id=com.corptia.alheba): e-commerce app at Kuwait for fruits and vegetables.
+
+3. [Royal Academy](https://play.google.com/store/apps/details?id=com.corptia.royalacademy): App for sports academy at Qatar that help them to arrange groups time at all
+sport halls and
+record the absence of playersn.
+
+4. [Bringero](https://play.google.com/store/apps/details?id=com.corptia.bringero) , [Bringero store ](https://play.google.com/store/apps/details?id=com.corptia.bringero.store) , [Bringero pilot ](https://play.google.com/store/apps/details?id=com.corptia.bringero.pilot): Another E-commerce app in Damietta for multi-vendor
+This app contains 3 apps one for customers, one for stores, and last one for
+delivery
+
 
 Feel free to explore my repositories for more!
 
