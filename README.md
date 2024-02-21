@@ -20,7 +20,7 @@ I'm an Android and Flutter Developer passionate about creating robust and user-f
 
 Here are some projects I'm proud of:
 
-1. [Project Name 1](Link to Project 1): Brief description.
+1. [Delta Capital App](https://play.google.com/store/apps/details?id=com.corptia.marinaCapital): Brief description.
 2. [Project Name 2](Link to Project 2): Brief description.
 3. [Project Name 3](Link to Project 3): Brief description.
 
